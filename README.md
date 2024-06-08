@@ -21,7 +21,7 @@ This Python application is a simple YouTube video downloader with a graphical us
 
     ```bash
     git clone https://github.com/hasinishraq/YT-Downloader.git
-    cd YouTube-Video-Downloader
+    cd YT-Downloader
     ```
 
 2. **Install the required packages:**
