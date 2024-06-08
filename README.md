@@ -35,7 +35,7 @@ This Python application is a simple YouTube video downloader with a graphical us
 1. **Run the application:**
 
     ```bash
-    python downloader.py
+    python main.py
     ```
 
 2. **Enter a YouTube link** into the input field and click the "Download" button.
