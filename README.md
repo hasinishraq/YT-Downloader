@@ -20,7 +20,7 @@ This Python application is a simple YouTube video downloader with a graphical us
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/hasinishraq/YouTube-Video-Downloader.git
+    git clone https://github.com/hasinishraq/YT-Downloader.git
     cd YouTube-Video-Downloader
     ```
 
