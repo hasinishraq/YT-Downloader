@@ -63,6 +63,4 @@ This Python application is a simple YouTube video downloader with a graphical us
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
